@@ -3,3 +3,5 @@ opencv-python
 numpy
 Pillow
 tqdm
+flask
+flask-cors
